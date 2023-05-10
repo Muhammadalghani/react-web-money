@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
-import { YoutubeLogo, InstaLogo, TwitLogo, WaLogo } from "../../asset/img";
+import YoutubeLogo  from "../../asset/img/yt.svg";
+import  InstaLogo  from "../../asset/img/instagram.svg";
+import  TwitLogo  from "../../asset/img/twitter.svg";
+import  WaLogo  from "../../asset/img/wa.svg";
 
 export default class Footer extends Component {
     render() {
