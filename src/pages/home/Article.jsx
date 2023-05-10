@@ -20,7 +20,7 @@ export default class Article extends Component {
                                         <h5 className="card-title">Belajar Investasi Saham dengan Mudah Bersama NGOBIT</h5>
                                         {/* <h6 className="card-subtitle mb-2 text-body-secondary">Card subtitle 1</h6> */}
                                         <p className="card-text">Artikel ini akan membahas tentang cara belajar investasi saham dengan mudah melalui NGOBIT...</p>
-                                        <a href="#" className="card-link">Selengkapnya</a>
+                                        <a href="/#" className="card-link">Selengkapnya</a>
                                     </div>
                                 </div>
                                 <div className="card m-2" style={{ width: '18rem' }}>
@@ -28,7 +28,7 @@ export default class Article extends Component {
                                         <h5 className="card-title">NGOBIT: Platform Belajar Investasi Saham Terbaik...</h5>
                                         {/* <h6 className="card-subtitle mb-2 text-body-secondary">Card subtitle 1</h6> */}
                                         <p className="card-text">Artikel ini akan membahas tentang platform belajar investasi saham terbaik untuk pemula, yaitu NGOBIT...</p>
-                                        <a href="#" className="card-link">Selengkapnya</a>
+                                        <a href="/#" className="card-link">Selengkapnya</a>
                                     </div>
                                 </div>
                                 <div className="card m-2" style={{ width: '18rem' }}>
@@ -36,7 +36,7 @@ export default class Article extends Component {
                                         <h5 className="card-title">Mengenal NGOBIT: Platform Investasi Saham untuk Pemula</h5>
                                         {/* <h6 className="card-subtitle mb-2 text-body-secondary">Card subtitle 1</h6> */}
                                         <p className="card-text">Artikel ini akan membahas tentang pengenalan NGOBIT sebagai platform investasi saham untuk pemula...</p>
-                                        <a href="#" className="card-link">Selengkapnya</a>
+                                        <a href="/#" className="card-link">Selengkapnya</a>
                                     </div>
                                 </div>
                                 <div className="card m-2" style={{ width: '18rem' }}>
@@ -44,7 +44,7 @@ export default class Article extends Component {
                                         <h5 className="card-title">Pentingnya Belajar Investasi Saham Sejak Dini Bersama NGOBIT</h5>
                                         {/* <h6 className="card-subtitle mb-2 text-body-secondary">Card subtitle 1</h6> */}
                                         <p className="card-text">Artikel ini akan membahas tentang pentingnya belajar investasi saham sejak dini bersama NGOBIT...</p>
-                                        <a href="#" className="card-link">Selengkapnya</a>
+                                        <a href="/#" className="card-link">Selengkapnya</a>
                                     </div>
                                 </div>
                             </div>

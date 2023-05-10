@@ -57,9 +57,9 @@ export default class Footer extends Component {
                             <div class="col-lg-3 col-md-6 footer-links">
                                 <h4>Layanan Kami</h4>
                                 <ul>
-                                    <li><i class="bx bx-chevron-right"></i> <a href="#">Program Pelatihan</a></li>
-                                    <li><i class="bx bx-chevron-right"></i> <a href="#">Akses ke Sumber Daya</a></li>
-                                    <li><i class="bx bx-chevron-right"></i> <a href="#">Komunitas Investor</a></li>
+                                    <li><i class="bx bx-chevron-right"></i> <a href="/#">Program Pelatihan</a></li>
+                                    <li><i class="bx bx-chevron-right"></i> <a href="/#">Akses ke Sumber Daya</a></li>
+                                    <li><i class="bx bx-chevron-right"></i> <a href="/#">Komunitas Investor</a></li>
                                 </ul>
                             </div>
 
